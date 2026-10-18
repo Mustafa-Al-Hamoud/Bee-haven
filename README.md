@@ -1,5 +1,16 @@
 # Bee Haven – Azure Data Engineering Pipeline
 
+## Project Notebooks
+
+<p align="center">
+  <a href="notebooks/04_weather_pipeline_synapse_ready.ipynb">
+    <img src="https://img.shields.io/badge/Weather_Pipeline-Open_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Open Weather Pipeline Notebook">
+  </a>
+  &nbsp;
+  <a href="notebooks/05_Notebook_Silver_to_Gold.ipynb">
+    <img src="https://img.shields.io/badge/Silver_to_Gold-Open_Notebook-0078D4?style=for-the-badge&logo=jupyter&logoColor=white" alt="Open Silver to Gold Notebook">
+  </a>
+</p>
 ## Table of Contents
 
 1. [Introduction](#1-introduction)
