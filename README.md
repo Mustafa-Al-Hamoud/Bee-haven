@@ -3,14 +3,29 @@
 ## Project Notebooks
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure">
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory">
+  <img src="https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Synapse Analytics">
+  <img src="https://img.shields.io/badge/ADLS_Gen2-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="ADLS Gen2">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apache&logoColor=white" alt="Parquet">
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+<p align="center">
   <a href="notebooks/04_weather_pipeline_synapse_ready.ipynb">
-    <img src="https://img.shields.io/badge/Weather_Pipeline-Open_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Open Weather Pipeline Notebook">
+    <img src="https://img.shields.io/badge/Weather_Pipeline-Open_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Weather Pipeline Notebook">
   </a>
   &nbsp;
   <a href="notebooks/05_Notebook_Silver_to_Gold.ipynb">
-    <img src="https://img.shields.io/badge/Silver_to_Gold-Open_Notebook-0078D4?style=for-the-badge&logo=jupyter&logoColor=white" alt="Open Silver to Gold Notebook">
+    <img src="https://img.shields.io/badge/Silver_to_Gold-Open_Notebook-0078D4?style=for-the-badge&logo=jupyter&logoColor=white" alt="Silver to Gold Notebook">
   </a>
 </p>
+
+---
 ## Table of Contents
 
 1. [Introduction](#1-introduction)
