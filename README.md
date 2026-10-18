@@ -302,3 +302,28 @@ This project demonstrates practical experience with:
 **Project:** Bee Haven – Azure Data Engineering Pipeline  
 **Repository:** [Bee-haven on GitHub](https://github.com/Mustafa-Al-Hamoud/Bee-haven)
 
+---
+
+## 9. Author
+
+**Mustafa Al Hamoud**
+
+IT Engineer | Data Engineering Enthusiast
+
+GitHub: [Mustafa-Al-Hamoud](https://github.com/Mustafa-Al-Hamoud)
+
+---
+
+## 10. Acknowledgements
+
+This project was developed as a hands-on data engineering project to demonstrate the design and implementation of an end-to-end data pipeline using Microsoft Azure.
+
+It combines beehive sensor data with external weather information using the Bright Sky Weather API.
+
+The project demonstrates practical applications of cloud storage, data orchestration, data transformation, and data integration.
+
+---
+
+⭐ If you found this project interesting, feel free to give it a star on GitHub!
+
+The screenshots included in this repository document the Azure infrastructure, successful pipeline execution, and the resulting Bronze, Silver, and Gold data layers.
